@@ -1,0 +1,38 @@
+body {
+  background-color: #eedad1
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #d4b5b0;
+  border-width: 6px;
+  width: 5%;
+}
+
+h2 {
+  color: #383e56;
+}
+
+h1 {
+  color: #383e56;
+}
+
+h3 {
+  color: #383e56;
+}
+
+.me_image:hover{
+  background-color:#383e56 ;
+  height: 320;
+  width: 35;
+
+}
+a {
+  background-color: powderblue;
+  transition: background-color .5s;
+}
+
+a:hover {
+  background-color: gold;
+}
